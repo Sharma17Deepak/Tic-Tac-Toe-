@@ -42,6 +42,7 @@ h1 {
     font-size: 8vmin;
     color: #c32f27;
     background-color: #ffffce;
+    cursor: pointer;
 }
 
 #reset{
