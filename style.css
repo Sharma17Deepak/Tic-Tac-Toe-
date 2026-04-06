@@ -79,3 +79,6 @@ h1 {
 .hide{
     display: none;
 }
+.msg-container button {
+    cursor: pointer;
+}
