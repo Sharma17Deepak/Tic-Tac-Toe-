@@ -53,6 +53,7 @@ h1 {
     color: #e0cba8;
     border-radius: 1rem;
     border: none;
+    cursor: pointer;
 }
 
 #new {
